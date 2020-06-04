@@ -1,0 +1,11 @@
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.exe
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.deps.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.runtimeconfig.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.runtimeconfig.dev.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.pdb
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.csprojAssemblyReference.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.AssemblyInfo.cs
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.pdb
